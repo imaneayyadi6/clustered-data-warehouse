@@ -1,6 +1,0 @@
-com\example\cdw\repository\DealRepository.class
-com\example\cdw\dto\DealDto.class
-com\example\cdw\model\Deal.class
-com\example\cdw\service\DealService.class
-com\example\cdw\controller\DealController.class
-com\example\cdw\ClusteredDataWarehouseApplication.class
