@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://db:5432/cdw_db
+    username: cdw
+    password: cdwpass
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+server:
+  port: 8080
